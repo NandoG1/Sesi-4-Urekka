@@ -9,7 +9,7 @@ export default function Home() {
           Weather App
         </h1>
         <p className="text-xl text-blue-100 mb-8">
-          Get real-time weather information for any city
+          Get real-time weather information for any city.
         </p>
       </div>
       
